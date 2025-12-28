@@ -1,0 +1,6 @@
+POST http://localhost:3000/getEvent
+Content-Type: application/json
+
+{
+  "event_id": "2600193302"
+}

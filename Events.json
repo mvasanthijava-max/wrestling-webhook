@@ -1,0 +1,18 @@
+{
+  "2600193302": {
+    "name": "USA Wrestling Event 2600193302",
+    "start_date": "2025-01-10",
+    "end_date": "2025-01-11",
+    "location": "Georgia",
+    "categories": ["Kids", "Cadet", "Junior"],
+    "url": "https://usawrestlingevents.com/event/2600193302"
+  },
+  "2600202202": {
+    "name": "USA Wrestling Event 2600202202",
+    "start_date": "2025-01-18",
+    "end_date": "2025-01-19",
+    "location": "Georgia",
+    "categories": ["Kids", "Open"],
+    "url": "https://usawrestlingevents.com/event/2600202202"
+  }
+}
